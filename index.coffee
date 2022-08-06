@@ -1,4 +1,4 @@
-DEBUG = false
+DEBUG = true
 SPEED = 160
 GRAVITY = 1100
 FLAP = 320
